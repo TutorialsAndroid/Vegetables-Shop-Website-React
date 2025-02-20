@@ -2,6 +2,10 @@
 
 A beautifully designed React-based vegetable store showcasing fresh organic produce. This project features a modern UI with a responsive layout, interactive product cards, and a contact form.
 
+## 🌐 Live Demo
+Check out the live demo of this project:
+[Vegetable Store Live Demo](https://tutorialsandroid.github.io/Vegetables-Shop-Website-React/)
+
 ## 🚀 Features
 - **Fresh Organic Produce Display** – Browse a variety of fresh vegetables.
 - **Stylish & Responsive UI** – Optimized for mobile and desktop views.

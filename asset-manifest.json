@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vegetables-Shop-Website-React/static/css/main.9d0a6d55.css",
+    "main.js": "/Vegetables-Shop-Website-React/static/js/main.54be6697.js",
+    "static/js/453.e91d081c.chunk.js": "/Vegetables-Shop-Website-React/static/js/453.e91d081c.chunk.js",
+    "index.html": "/Vegetables-Shop-Website-React/index.html",
+    "main.9d0a6d55.css.map": "/Vegetables-Shop-Website-React/static/css/main.9d0a6d55.css.map",
+    "main.54be6697.js.map": "/Vegetables-Shop-Website-React/static/js/main.54be6697.js.map",
+    "453.e91d081c.chunk.js.map": "/Vegetables-Shop-Website-React/static/js/453.e91d081c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0a6d55.css",
+    "static/js/main.54be6697.js"
+  ]
+}
